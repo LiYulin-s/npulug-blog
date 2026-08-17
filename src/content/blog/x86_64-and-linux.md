@@ -5,7 +5,7 @@ updateDate: 2026-08-18
 slug: x86_64-and-linux
 authors:
   - name: Yuri
-    url: yuri.uno
+    url: https://yuri.uno
 ---
 
 > 使用 Linux 像 MacOS / Windows 一样无脑可能会出大问题，为了更好地使用和理解 Linux，可能需要了解硬件和 Linux 的部分核心哲学
