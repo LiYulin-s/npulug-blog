@@ -1,7 +1,7 @@
 ---
 title: Syntax -> Syntax 的迷人与危险：我们为什么对宏又爱又恨？
 pubDate: 2026-10-10
-slug: good-recursive-and-bad-recursive
+slug: macro-romantics
 authors:
   - name: Yurin
     url: https://blog.yurin.top/
